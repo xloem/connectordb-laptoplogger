@@ -54,7 +54,7 @@ With a manual install, you will have to figure out how to auto-run on start.
 ### Linux
 
 ```bash
-sudo apt-get install python-xlib python-qt5 python-apsw python-pip
+sudo apt-get install python-xlib python-pyqt5 python-apsw python-pip
 sudo pip install connectordb
 
 git clone https://github.com/connectordb/connectordb-laptoplogger
